@@ -11,13 +11,15 @@ function TinderCards() {
   const [showMatchAnimation, setShowMatchAnimation] = useState(false);
 
   useEffect(() => {
+    // Subscribe to the 'people' collection in Firebase
     const unsubscribe = database
       .collection('people')
       .onSnapshot((snapshot) =>
         setPeople(snapshot.docs.map((doc) => doc.data()))
       );
 
-    return () => {
+      // Cleanup function to unsubscribe when the component unmounts
+    return () => { 
       unsubscribe();
     };
   }, []);
