@@ -4,8 +4,10 @@ Welcome to the repository for the Premium Mobile Dating App UI, a project comple
 
 ## Screenshots
 
-![App Screenshot 1](screenshots/screenshot1.png)
-<!-- Add more screenshots if needed -->
+![Screenshot (135)](https://github.com/KiranSg-coder/Permimum-Dating-app/assets/84786181/9c9cc793-85e1-46c8-adda-a00f051d97ae)
+
+![Screenshot (136)](https://github.com/KiranSg-coder/Permimum-Dating-app/assets/84786181/3156866e-0053-453c-909c-c477cd32ba6f)
+
 
 ## Features
 
