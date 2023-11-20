@@ -20,4 +20,6 @@ Welcome to the repository for the Premium Mobile Dating App UI, a project comple
 - **Match Animation:**
   - Gracefully displayed a short animation in case of a match.
 
+## Video Walkthrough
 
+[Watch the video walkthrough on YouTube](https://youtu.be/tSKt3cj7TPM)
