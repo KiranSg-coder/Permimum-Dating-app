@@ -1,6 +1,6 @@
 # Premium Mobile Dating App UI
 
-Welcome to the repository for the Premium Mobile Dating App UI, a project completed as part of a coding assignment. This mobile app is designed using React Native and incorporates features inspired by popular dating apps, with a unique touch to showcase creativity and coding skills.
+Welcome to the repository for the Premium Mobile Dating App UI, a project completed as part of a coding assignment. This mobile app is designed using ReactJS and incorporates features inspired by popular dating apps, with a unique touch to showcase creativity and coding skills.
 
 ## Screenshots
 
